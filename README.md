@@ -63,7 +63,7 @@ GPA: 3.00
 
 **Defense Industry 401 Training Program**  
 *Remote | February 2025 – April 2025*  
-- Selected among 250 participants.  
+- Selected as one of 250 participants from a large number of applications.  
 - Training on software development, data science, project management, and leadership.
 
 **Ayasofya Technology Research Center Certificate of Achievement**  
