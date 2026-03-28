@@ -9,7 +9,7 @@
 
 **İstanbul Üniversitesi-Cerrahpaşa**  
 Computer Engineering, Bachelor's Student (2024–Present)  
-GPA: 3.5  
+GPA: 3.41
 
 **Fatih Sultan Mehmet Vakıf University**  
 Computer Engineering, Bachelor's Student (2022–2024)  
