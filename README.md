@@ -11,14 +11,6 @@
 Computer Engineering, Bachelor's Student (2024–Present)  
 GPA: 3.41
 
-**Fatih Sultan Mehmet Vakıf University**  
-Computer Engineering, Bachelor's Student (2022–2024)  
-GPA: 3.66  
-
-**Fatih Sultan Mehmet Vakıf University**  
-Electrical and Electronics Engineering, Bachelor's Student (2023–2024)  
-GPA: 3.00  
-
 ---
 
 ## Experience
